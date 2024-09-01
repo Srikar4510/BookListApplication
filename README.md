@@ -10,6 +10,7 @@ This is a simple Booklist application built with React.js. The application allow
 - [Installation](#installation)
 - [Running the Application](#running-the-application)
 - [Project Structure](#project-structure)
+- [Screenshots](#screenshots)
 - [Dependencies](#dependencies)
 - [License](#license)
 
@@ -68,9 +69,16 @@ Open ``` http://localhost:5173 ``` to view the app in the browser.
 
 - components: Contains React components like BookCreate, BookEdit, BookList, and BookShow.
 - context: Contains the context file for managing the state and actions related to books.
-- ooks: Contains custom hooks like useBooksContext for accessing context values.
+- hooks: Contains custom hooks like useBooksContext for accessing context values.
 - db.json: JSON file used by the JSON Server to simulate a backend database.
+- 
+## Screenshots
 
+
+<img src="image.png" alt="Initial State" width="500"/>
+
+<img src="image-1.png" alt="Initial State" width="500"/>
+<img src="image-2.png" alt="Initial State" width="500"/>
 
 ### Dependencies
 React.js
